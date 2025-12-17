@@ -1,0 +1,5 @@
+{
+  "name": "AI Remix Studio",
+  "description": "An intelligent codebase explorer and refactoring assistant designed for Remix projects, powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
